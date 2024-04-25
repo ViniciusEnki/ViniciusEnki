@@ -1,21 +1,18 @@
-### Hi there 👋
-
-<!--
-**ViniciusEnki/ViniciusEnki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,unity)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,blender)](https://skillicons.dev)
-
-
+<!-- Languages and Tools Section -->
+<section>
+  <h3 align="center">🛠️ Languages and Tools</h3>
+  <div align="center">
+    <!-- Programming Languages -->
+    <div style="display: inline-block; margin-bottom: 10px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,cs,unity" alt="Programming Languages" />
+      </a>
+    </div>
+    <!-- Design and Development Tools -->
+    <div style="display: inline-block;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ai,ps,pr,visualstudio,blender" alt="Design and Development Tools" />
+      </a>
+    </div>
+  </div>
+</section>
