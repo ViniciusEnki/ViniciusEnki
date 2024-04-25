@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=blender,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,blender)](https://skillicons.dev)
 
 
