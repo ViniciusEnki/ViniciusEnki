@@ -1,5 +1,5 @@
 
-### <img src="https://i.pinimg.com/564x/6e/62/0e/6e620e51de8d5a57642f86817a91472d.jpg" width ="20"><b>ㅤﾠﾠﾠﾠﾠㅤㅤㅤ‎ Hey, I'm Enki </b>
+### <img src="https://i.pinimg.com/564x/6e/62/0e/6e620e51de8d5a57642f86817a91472d.jpg" width ="20"><b>ㅤﾠﾠﾠﾠﾠㅤㅤㅤ‎ Hey, I'm Vinicius </b>
 <br>
 
 <!-- Languages and Tools Section -->
@@ -20,5 +20,10 @@
     </div>
   </div>
 </section>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusenki&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=f00d45&icon_color=f00d45&text_color=ffffffcf&bg_color=131313" alt="Vinicius Enki Github Stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusenki&layout=compact&theme=dark&bg_color=131313&text_color=ffffffcf&title_color=f00d45" alt="Vinicius Enki Top Languages"/>
+<br>
+<br>
+<!-- Github Stats -->
+<div style="text-align: center;">
+    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=viniciusenki&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=f00d45&icon_color=f00d45&text_color=ffffffcf&bg_color=131313" alt="Vinicius Enki Github Stats">
+    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusenki&layout=compact&theme=dark&bg_color=131313&text_color=ffffffcf&title_color=f00d45" alt="Vinicius Enki Top Languages"/>
+</div>
