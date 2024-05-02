@@ -25,7 +25,19 @@
 <br>
 <br>
 <!-- Github Stats -->
-<div style="aling: center">
-    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=viniciusenki&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=f00d45&icon_color=f00d45&text_color=ffffffcf&bg_color=131313" alt="Vinicius Enki Github Stats">
-    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusenki&layout=compact&theme=dark&bg_color=131313&text_color=ffffffcf&title_color=f00d45" alt="Vinicius Enki Top Languages"/>
+<div align="center"> 
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusenki&count_private=true&show_icons=true&line_height=20&title_color=f00d45&icon_color=f00d45&text_color=ffffffcf&bg_color=131313) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius&layout=compact&theme=dark&bg_color=131313&text_color=ffffffcf&title_color=f00d45&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<!-- Social -->
+<div align="center"> 
+  <a href="https://www.youtube.com/@viniciusenki" target="_blank"><img src="https://img.shields.io/badge/YouTube-f00d45?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-f00d45?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-f00d45?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-f00d45?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Behance-f00d45?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-f00d45?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href=""><img src="https://img.shields.io/badge/Gmail-f00d45?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
