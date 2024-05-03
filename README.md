@@ -5,12 +5,12 @@
 
 <!-- About Me -->
 
+<!-- Social -->
+<div align="center"> 
+
 <p>
 Hey! My name is Vinicius Enki, and I'm a designer currently studying game development. I reside in São Paulo, Brazil. You can find on:
 </p>
-
-<!-- Social -->
-<div align="center"> 
   <a href="https://www.youtube.com/@viniciusenki" target="_blank"><img src="https://img.shields.io/badge/YouTube-f00d45?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-f00d45?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-f00d45?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -35,7 +35,7 @@ Hey! My name is Vinicius Enki, and I'm a designer currently studying game develo
 <div align="center"> 
   
 <a><img src="https://github-readme-stats.vercel.app/api?username=viniciusenki&count_private=true&show_icons=true&line_height=20&title_color=f00d45&icon_color=f00d45&text_color=ffffffcf&bg_color=131313" alt="Vinicius' Github Stats"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius&layout=compact&theme=dark&bg_color=131313&text_color=ffffffcf&title_color=f00d45&size_weight=0.5&count_weight=0.5" alt="Programming languages most used by Vinicius"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusenki&layout=compact&theme=dark&bg_color=131313&text_color=ffffffcf&title_color=f00d45&size_weight=0.5&count_weight=0.5" alt="Programming languages most used by Vinicius"></a>
 
 </div>
 
