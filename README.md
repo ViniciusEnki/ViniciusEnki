@@ -9,7 +9,7 @@
 <div align="center"> 
 
 <p>
-Hey! My name is Vinicius Enki, and I'm a designer currently studying game development. I reside in São Paulo, Brazil. You can find on:
+Hey! My name is Vinicius, and I'm a designer currently studying game development. I reside in São Paulo, Brazil. You can find on:
 </p>
   <a href="https://www.youtube.com/@viniciusenki" target="_blank"><img src="https://img.shields.io/badge/YouTube-f00d45?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-f00d45?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
