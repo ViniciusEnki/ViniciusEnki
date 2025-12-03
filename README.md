@@ -1,72 +1,36 @@
-<!-- ====== PROFILE BANNER ====== -->
-<p align="center">
-  <img src="https://i.pinimg.com/736x/87/17/46/871746fdb98127f80ce0acb96f19a95c.jpg" width="100%" style="border-radius:12px;">
-</p>
-
-<!-- ====== NAME / LEVEL ====== -->
-<h2 align="center">
-  <img src="https://i.pinimg.com/564x/6e/62/0e/6e620e51de8d5a57642f86817a91472d.jpg" width="25">
-  ‎ ‎ 𝙑𝙞𝙣𝙞𝙘𝙞𝙪𝙨  •  𝐋𝐞𝐯𝐞𝐥 𝟏𝟎𝟖
-</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/XP-500%20Lightning-%23b865ff?style=for-the-badge">
-</p>
-
-<br>
-
-<!-- ====== MINI BIO (STEAM "ABOUT") ====== -->
-<p align="center">
-  🌌 Developer • Designer • Game Enjoyer <br>
-  São Paulo, Brazil
-</p>
-
-<br>
-
-<!-- ====== SOCIAL BADGES (STEAM-LIKE COLORS) ====== -->
-<div align="center">
-
-<a href="https://www.youtube.com/@viniciusenki"><img src="https://img.shields.io/badge/YouTube-8a2be2?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Instagram-8a2be2?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Twitch-8a2be2?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Twitter-8a2be2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Behance-8a2be2?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Discord-8a2be2?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Gmail-8a2be2?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-</div>
-
-<br><br>
-
-<!-- ====== SHOWCASE (STEAM STYLE) ====== -->
-<h3 align="center">🎨 Featured Items</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,cs,unity&theme=dark" height="50">
-  <br>
-  <img src="https://skillicons.dev/icons?i=ai,ps,pr,visualstudio,blender&theme=dark" height="50">
-</p>
-
-<br><br>
-
-<!-- ====== STATS CARDS ====== -->
-<h3 align="center">📊 Steam-Styled Stats</h3>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusenki&count_private=true&show_icons=true&line_height=20&title_color=b865ff&icon_color=b865ff&text_color=ffffffcf&bg_color=161616&border_color=7a2fff">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusenki&layout=compact&bg_color=161616&title_color=b865ff&text_color=ffffffcf&border_color=7a2fff">
-</div>
-
-<br><br>
-
-<!-- ====== ACTIVITY ====== -->
-<h3 align="center">📡 Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusenki&theme=react-dark&hide_border=true&area=true&area_color=8a2be2&point=bb77ff&color=bb77ff">
-</p>
-
-<br>
-
-<h3 align="center">🛠️ Work in Progress</h3>
-
+<table cellpadding="0" cellspacing="0" width="100%">
+  <tr valign="top">
+    <!-- COLUNA ESQUERDA: BLOCO MAIOR (OCUPA O MÁXIMO) -->
+    <td style="padding-right:20px;">
+      <div style="background:transparent; padding:0; width:100%; box-sizing:border-box; text-align:left;">
+        <h1 style="color:#ffffff; margin:0 0 6px 0; font-size:44px; line-height:1;">Vinicius</h1>
+        <p style="color:#9aa0a6; margin:0 0 12px 0; font-size:14px; line-height:1.3;">
+          asdasdasd&nbsp;🇧🇷&nbsp;Brazil
+        </p>
+        <!-- Aqui você pode continuar adicionando parágrafos/seções no bloco grande -->
+        <p style="color:#cfd8df; margin:10px 0 0 0; font-size:14px;">
+          Bem-vindo ao meu perfil — este é o bloco principal, aqui entram a bio estendida, showcase, links e quaisquer parágrafos que você queira.
+        </p>
+      </div>
+    </td>
+    <!-- COLUNA DIREITA: BLOCO MENOR (ESTILO STEAM, MAX-WIDTH FIXO) -->
+    <td width="300" style="max-width:300px;">
+      <div style="background:#0f1720; border:1px solid #1f2a33; border-radius:8px; padding:12px; width:100%; box-sizing:border-box;">
+        <div style="font-size:13px; color:#9fb0bf; margin-bottom:2px;">Level</div>
+        <div style="font-size:28px; color:#ffffff; font-weight:600; margin-bottom:8px;">53</div>
+        <div style="display:block; margin-top:6px;">
+          <img src="https://community.cloudflare.steamstatic.com/public/images/items/255710/89d8cb12a72c4c7f2ad65379b3f9a2ed77f12d28.png"
+               width="44" height="44" style="border-radius:6px; display:inline-block; vertical-align:middle;"/>
+          <div style="display:inline-block; vertical-align:middle; margin-left:10px; color:#d7e6ef; font-size:13px; line-height:1.1;">
+            Silly Strawberry Bubble Tea<br>
+            <span style="color:#8fa6b6; font-size:12px;">100 XP</span>
+          </div>
+        </div>
+        <div style="margin-top:12px; display:flex; gap:8px;">
+          <span style="background:#121820; color:#cfe7ff; padding:6px 10px; border-radius:6px; font-size:13px;">Message</span>
+          <span style="background:#121820; color:#cfe7ff; padding:6px 10px; border-radius:6px; font-size:13px;">More…</span>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
