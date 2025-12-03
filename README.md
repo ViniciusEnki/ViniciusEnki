@@ -12,8 +12,8 @@
        <br>
       <!-- BANNER -->
       <div>
-        <img src="https://i.pinimg.com/736x/db/57/15/db57154a39bc8d52c6c89f9d104066db.jpg" 
-          style="object-fit: cover; width: 100%; height: 90px;"/>
+        <img src= "https://i.pinimg.com/736x/db/57/15/db57154a39bc8d52c6c89f9d104066db.jpg" 
+          style= "object-fit: cover; width: 1200px; height: 230px"/>
       </div>
     </td> 
     <!-- 
