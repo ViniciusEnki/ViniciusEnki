@@ -87,11 +87,17 @@
   </div>
   <br>
   <!-- ARTWORK -->
-  <div style="display:flex; justify-content:space-between; align-items:center;">
-    <span style="font-size:13px; color:#9fb0bf;">$\Large \textsf{Artwork }$</span>
-    <span style="font-size:22px; color:#ffffff; font-weight:600; line-height:1;">$\Huge \textsf{\color{grey}{167}}$</span>
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+    <span style="">$\Large \textsf{Artwork }$</span>
+    <span style="">$\Huge \textsf{\color{grey}{79}}$</span>
   </div>
-</div>
+  <div style="display:flex; gap:6px; margin-bottom:14px;">
+     <img src="dotfiles.png" width="28">
+  <!--   <img src="img6.png" width="28">
+    <img src="img7.png" width="28">
+    <img src="img8.png" width="28">-->
+  </div>
+    <br>
     </td>
   </tr>
 </table>
