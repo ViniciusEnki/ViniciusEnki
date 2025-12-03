@@ -2,6 +2,9 @@
 ### <img src="https://i.pinimg.com/564x/6e/62/0e/6e620e51de8d5a57642f86817a91472d.jpg" width ="20"><b>ㅤﾠﾠﾠﾠﾠㅤㅤㅤ‎ Hey, I'm Vinicius </b>
 <br>
 
+*{
+background color: red;
+}
 
 <!-- About Me -->
 
