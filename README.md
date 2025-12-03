@@ -92,7 +92,7 @@
     <span style="">$\Huge \textsf{\color{grey}{79}}$</span>
   </div>
   <div style="display:flex; gap:6px; margin-bottom:14px;">
-     <img src="dotfiles.png" width="28">
+     <img src="assets/dotfiles.png" width="28">
   <!--   <img src="img6.png" width="28">
     <img src="img7.png" width="28">
     <img src="img8.png" width="28">-->
