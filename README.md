@@ -12,7 +12,8 @@
        <br>
       <!-- BANNER -->
       <div>
-        <kbd><img src="https://i.pinimg.com/736x/db/57/15/db57154a39bc8d52c6c89f9d104066db.jpg" style=" width:100%; height:auto;"/></kbd>
+        <img src="https://i.pinimg.com/736x/db/57/15/db57154a39bc8d52c6c89f9d104066db.jpg" 
+          style="object-fit: cover; width: 100%; height: 90px;"/>
       </div>
     </td> 
     <!-- 
@@ -45,7 +46,7 @@
       Message
     </td>
     <!-- ESPAÇO INVISÍVEL -->
-    <td style="border:none;"></td>
+    <td></td>
     <!-- BOTÃO DIREITO -->
     <td style="
       border:1px solid #1f2a33;
