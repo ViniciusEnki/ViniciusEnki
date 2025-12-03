@@ -4,16 +4,21 @@
   <td style="padding-right:20px;">
    <div style="min-width: 300px; min-height: 2200px; border: 1px solid #000; padding: 10px;">
       <h1>Vinicius</h1>
-        <p>Description &nbsp;🇧🇷&nbsp;Brazil<br>
-       aksdbjasdgbjakjsdgasdaljskdhgakjsbdgakjsdjka as dhajksd kas da
+        <p>Description &nbsp;🇧🇷&nbsp;Brazil
+          <br>
+           a
+          <br>
+           b
+         <br>
+          c
         </p>
-     a<br>b<br>
     </div>
-       <br>
       <!-- BANNER -->
       <div>
         <img src= "https://i.pinimg.com/736x/67/e2/8e/67e28ef87ba4d6d02fb7dd1053475c70.jpg" 
           style= "object-fit: none; width: 1200px; height: 290px"/>
+        <img src= "https://a.png"
+        style= "object-fit: none; width: 1200px; height: 52px"/>
       </div>
     </td> 
     <!-- 
@@ -28,15 +33,15 @@
       <br>
         <div>
         <img 
-          src="https://i.pinimg.com/1200x/b9/aa/85/b9aa856d0fcf716cbeed4bcf161f7ec8.jpg" 
+          src="https://a.png" 
           style="width:290px; height:70px;" />
         
 <!-- PROFILE BUTTONS -->
 
   <div style="display:flex; gap:6px; margin-bottom:14px;">
-   <!-- <img src="img5.png" width="28">
-    <img src="img6.png" width="28">-->
-    <a><img src="https://skillicons.dev/icons?i=cpp,cs," alt="Programming Languages"></a><br>
+    <img src="https://a.png" width="28">
+    <img src="https://a.png" width="28">
+    <br>
   </div>
 </div>
 <br>
@@ -52,11 +57,16 @@
     <span style="font-size:13px; color:#9fb0bf;">$\Large \textsf{{Profile Awards }}$</span>
     <span style="font-size:22px; color:#ffffff; font-weight:600; line-height:1;">$\Huge \textsf{\color{grey}{23}}$</span>
   </div>
-
   <div style="display:flex; gap:6px; margin-bottom:14px;">
-<a><img src="https://skillicons.dev/icons?i=js,html,css,cs" alt="Programming Languages"></a><br>
-  </div>
+    <img src="img5.png" width="28">
+    <img src="img6.png" width="28">
+    <img src="img7.png" width="28">
+    <img src="img8.png" width="28">
   <br>
+  </div>
+  
+  <br>
+  
   <!-- BADGES -->
   <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
     <span style="">$\Large \textsf{Badges }$</span>
