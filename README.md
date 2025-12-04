@@ -1,105 +1,140 @@
-<table cellpadding="0" cellspacing="0" width="100%">
-  <tr valign="top">
-    <!-- COLUNA ESQUERDA: BLOCO MAIOR (OCUPA O MÁXIMO) -->
-  <td style="padding-right:20px;">
-   <div style="min-width: 300px; min-height: 2200px; border: 1px solid #000; padding: 10px;">
-      <h1>Vinicius</h1>
-        <p>Description &nbsp;🇧🇷&nbsp;Brazil
-          <br>
-           a
-          <br>
-           b
-         <br>
-          c
-        </p>
-    </div>
-      <!-- BANNER -->
-      <div>
-        <img src= "https://i.pinimg.com/736x/67/e2/8e/67e28ef87ba4d6d02fb7dd1053475c70.jpg" 
-          style= "object-fit: none; width: 1200px; height: 290px"/>
-        <img src= "https://a.png"
-        style= "object-fit: none; width: 1200px; height: 52px"/>
-      </div>
-    </td> 
-    <!-- 
-    COLUNA DIREITA: BLOCO MENOR (ESTILO STEAM, MAX-WIDTH FIXO) 
-    -->
-    <td width="300" style="max-width:300px;">
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
-          <br>
-          <span>$\Huge \textsf{Level }$</span>
-          <span>$\Huge \textsf{\color{#f00d45}{⑱}}$</span>
-        </div>
+<table>
+<tr valign="top">
+<!-- LEFT COLUMN: LARGEST BLOCK (OCCUPIES THE MAXIMUM SPACE) -->
+<td>
+<div style="min-width: 300px; min-height: 2200px;">
+  <h1>
+    Vinicius
+  </h1>
+    <p>
+      Description &nbsp;🇧🇷&nbsp;Brazil
+    <br>
+      a
       <br>
-        <div>
-        <img 
-          src="https://a.png" 
-          style="width:290px; height:70px;" />
+      b
+      <br>
+      c
+    </p>
+</div>
+<!-- BANNER -->
+<div>
+  <img src= "assets/banner.png" 
+    style= "object-fit: none; width: 1200px; height: 290px"/>
+<!-- DIVIDER -->
+  <img src= "assets/divider.png"
+    style= "object-fit: none; width: 1200px; height: 52px"/>
+</div>
+</td> 
+<!-- RIGHT COLUMN: SMALLER BLOCK (STEAM STYLE, FIXED MAX-WIDTH) -->
+<td width="300" style="max-width:300px;">
+  <div style="display:flex;">
+    <br>
+      <span>$\Huge \textsf{Level }$</span>
+      <span>$\Huge \textsf{\color{#f00d45}{⑱}}$</span>
+</div>
+
+
+<br>
+<!-- IDK IMAGE -->
+<img src="https://a.png" style="width:290px; height:70px;"/>
         
 <!-- PROFILE BUTTONS -->
-
-  <div style="display:flex; gap:6px; margin-bottom:14px;">
-    <img src="https://a.png" width="28">
-    <img src="https://a.png" width="28">
-    <br>
-  </div>
+<div style="display:flex;">
+    <!--
+    <img src="img5.png" width="28">
+    <img src="img6.png" width="28">
+    -->
+    <span> Message </span>
+    <span> More...</span>
+    <span> $\large\textsf{\color{blue}{ ㅤㅤCurrently Online}}$</span>
 </div>
-<br>
-<div>
 
-  <div style="font-size:18px; color:#8fd3ff; margin-bottom:14px;">
-    <span> $\Huge \textsf{\color{blue}{Currently Online}}$ </span>
+
+<br>
+<br>
+<!-- PROFILE AWARDS -->
+<div>
+<div style="display:flex;">
+    <span>$\Large \textsf{{Profile Awards }}$</span>
+    <span>$\Huge \textsf{\color{#9b9b9b}{5}}$</span>
+</div>
+<div style="display:flex;">
+    <p align="center">
+      <!--
+      <img src="img5.png" width="28">
+      <img src="img6.png" width="28">
+      <img src="img7.png" width="28">
+      <img src="img8.png" width="28">
+      <img src="img8.png" width="28">
+      -->
+      <a href="https://skillicons.dev">
+         <img src="https://skillicons.dev/icons?i=github,github,github,github,github" />
+      </a>
+    </p>
   </div>
-  <br>
- <br>
-  <!-- PROFILE AWARDS -->
-  <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
-    <span style="font-size:13px; color:#9fb0bf;">$\Large \textsf{{Profile Awards }}$</span>
-    <span style="font-size:22px; color:#ffffff; font-weight:600; line-height:1;">$\Huge \textsf{\color{grey}{23}}$</span>
-  </div>
-  <div style="display:flex; gap:6px; margin-bottom:14px;">
+  
+<!-- BADGES -->
+<div style="display:flex;">
+    <span>$\Large \textsf{Badges }$</span>
+    <span>$\Huge \textsf{\color{#9b9b9b}{5}}$</span>
+</div>
+<div style="display:flex;">
+   <!--
     <img src="img5.png" width="28">
     <img src="img6.png" width="28">
     <img src="img7.png" width="28">
     <img src="img8.png" width="28">
-  <br>
-  </div>
-  
-  <br>
-  
-  <!-- BADGES -->
-  <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
-    <span style="">$\Large \textsf{Badges }$</span>
-    <span style="">$\Huge \textsf{\color{grey}{79}}$</span>
-  </div>
-  <div style="display:flex; gap:6px; margin-bottom:14px;">
-   <!-- <img src="img5.png" width="28">
-    <img src="img6.png" width="28">
-    <img src="img7.png" width="28">
-    <img src="img8.png" width="28">-->
-    <a><img src="https://skillicons.dev/icons?i=cpp,cs,java,unreal" alt="Programming Languages"></a><br>
-  </div>
-    <br>
-  <!-- SCREENSHOTS -->
-  <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
-    <span style="font-size:13px; color:#9fb0bf;">$\Large \textsf{Screenshot }$</span>
-    <span style="font-size:22px; color:#ffffff; font-weight:600; line-height:1;">$\Huge \textsf{\color{grey}{42}}$</span>
-  </div>
-  <br>
-  <!-- ARTWORK -->
-    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
-    <span style="">$\Large \textsf{Artwork }$</span>
-    <span style="">$\Huge \textsf{\color{grey}{79}}$</span>
-  </div>
-  <div style="display:flex; gap:6px; margin-bottom:14px;">
-     <img src="assets/dotfiles.png" width="28">
-  <!--   <img src="img6.png" width="28">
-    <img src="img7.png" width="28">
-    <img src="img8.png" width="28">-->
-  </div>
-    <br>
-    </td>
-  </tr>
+    <img src="img8.png" width="28">
+    -->
+    <a>
+      <img src="https://skillicons.dev/icons?i=cpp,cs,java,unreal,unity" alt="Programming Languages">
+    </a>
+</div>
+
+
+<br>
+<br>
+<!-- GAMES -->
+<div style="display:flex;">
+  <span>$\Large \textsf{Games }$</span>
+  <span>$\Huge \textsf{\color{#9b9b9b}{8}}$</span>
+    <p align="center">
+      <!--
+      <img src="img5.png" width="28">
+      <img src="img6.png" width="28">
+      <img src="img7.png" width="28">
+      <img src="img8.png" width="28">
+      <img src="img8.png" width="28">
+      -->
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=unreal,unity,unreal,unity,unreal"/>
+        <br>
+      <img src="https://skillicons.dev/icons?i=unity,unreal,unity"/>
+      </a>
+  </p>
+</div>
+
+
+<br>
+<!-- ARTWORK -->
+<div style="display:flex;">
+  <span>$\Large \textsf{Artwork }$</span>
+  <span>$\Huge \textsf{\color{#9b9b9b}{79}}$</span>
+</div>
+  <div style="display:flex;">
+       <img src="assets/dotfiles.png" width="28">
+    <!--
+      <img src="img6.png" width="28">
+      <img src="img7.png" width="28">
+      <img src="img8.png" width="28">
+      -->
+</div>
+
+
+<br>
+<!-- MORE  -->
+</td>
+</tr>
 </table>
 
 
