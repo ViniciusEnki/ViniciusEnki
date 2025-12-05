@@ -16,10 +16,12 @@
       c
     </p>
 </div>
+
+<br>
 <!-- BANNER -->
 <div>
   <img src= "assets/banner.jpg" 
-    style= "object-fit: none; width: 1200px; height: 290px"/>
+    style= "object-fit: none; width: 1200px; height: 250px"/>
 <!-- DIVIDER -->
   <img src= "assets/divider.png"
     style= "object-fit: none; width: 1200px; height: 52px"/>
@@ -107,11 +109,19 @@
       <img src="img8.png" width="28">
       -->
       <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=unreal,unity,unreal,unity,unreal"/>
-        <br>
-      <img src="https://skillicons.dev/icons?i=unity,unreal,unity"/>
+      <img src="https://skillicons.dev/icons?i=github,github,github,github,github"/>
+      <br>
+      <img src="https://skillicons.dev/icons?i=github,github,github"/>
       </a>
   </p>
+</div>
+
+
+<br>
+<!-- INVENTORY -->
+<div style="display:flex;">
+  <span>$\Large \textsf{Invetory }$</span>
+  <span>$\Huge \textsf{\color{#9b9b9b}{96}}$</span>
 </div>
 
 
@@ -121,8 +131,10 @@
   <span>$\Large \textsf{Artwork }$</span>
   <span>$\Huge \textsf{\color{#9b9b9b}{79}}$</span>
 </div>
-  <div style="display:flex;">
-       <img src="assets/dotfiles.png" width="28">
+<div style="display:flex;">
+    <a href="exemple.com">
+      <img src="assets/dotfiles.png" width="28" alt="dotfiles icon">
+    </a>
     <!--
       <img src="img6.png" width="28">
       <img src="img7.png" width="28">
@@ -132,7 +144,6 @@
 
 
 <br>
-<!-- MORE  -->
 </td>
 </tr>
 </table>
