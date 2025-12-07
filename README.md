@@ -38,18 +38,19 @@
 
 <br>
 <!-- IDK IMAGE -->
-<img src="https://a.png" style="width:290px; height:70px;"/>
+<img src="assets/a.png" style="width:290px; height:70px;"/>
         
 <!-- PROFILE BUTTONS -->
-<div style="display:flex;">
-    <!--
-    <img src="img5.png" width="28">
-    <img src="img6.png" width="28">
-    -->
-    <span> Message </span>
-    <span> More...</span>
-    <span> $\large\textsf{\color{blue}{ ㅤㅤCurrently Online}}$</span>
+<div style="display:flex; text-decoration:none;">
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="assets/message.png" alt="Contato por e-mail" style="display:block;">
+  </a>
+
+  <a href="https://exemplo.com" style="text-decoration:none; border:none; outline:none;">
+    <img src="assets/more.png" alt="Mais opções">
+  </a>
 </div>
+
 
 
 <br>
