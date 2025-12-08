@@ -2,7 +2,7 @@
 <tr valign="top">
 <!-- LEFT COLUMN: LARGEST BLOCK (OCCUPIES THE MAXIMUM SPACE) -->
 <td>
-<div style="min-width: 300px; min-height: 2200px;">
+<div style="min-width: 300px; min-height: auto;">
   <h1>
     Vinicius
   </h1>
@@ -18,13 +18,14 @@
 </div>
 
 <br>
+<br>
 <!-- BANNER -->
 <div>
-  <img src= "assets/banner.jpg" 
-    style= "object-fit: none; width: 1200px; height: 250px"/>
-<!-- DIVIDER -->
+  <img src= "assets/banner2.png" 
+    style= "object-fit: none; width: 1200px; height: 329px"/>
+<!-- DIVIDER 
   <img src= "assets/divider.png"
-    style= "object-fit: none; width: 1200px; height: 52px"/>
+    style= "object-fit: none; width: 1200px; height: 21px"/>-->
 </div>
 </td> 
 <!-- RIGHT COLUMN: SMALLER BLOCK (STEAM STYLE, FIXED MAX-WIDTH) -->
