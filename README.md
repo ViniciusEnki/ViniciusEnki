@@ -9,16 +9,12 @@
     <p>
       Description &nbsp;🇧🇷&nbsp;Brazil
     <br>
-      a
+      nndustry. Lorem Ipsum has beetype specimen boot.ndustry. Lorem Ipsum has beetype specimen boot.ndustry. Lorem Ipsum has beetype specimen boot.ndustry. Lorem Ipsum has beetype specimen boot.ndustry. Lorem Ipsum has beetype specimen boot.ndustry. Lorem Ipsum has beetype specimen boot.
       <br>
-      b
-      <br>
-      c
     </p>
 </div>
 
-<br>
-<br>
+  
 <!-- BANNER -->
 <div>
   <img src= "assets/banner2.png" 
@@ -33,7 +29,7 @@
   <div style="display:flex;">
     <br>
       <span>$\Huge \textsf{Level }$</span>
-      <span>$\Huge \textsf{\color{#f00d45}{⑱}}$</span>
+      <span>$\Huge \textsf{\color{#2a7aef}{⑱}}$</span>
 </div>
 
 
@@ -43,13 +39,13 @@
         
 <!-- PROFILE BUTTONS -->
 <div style="display:flex;">
-    <img src="assets/message.png" alt="Contato por e-mail" style="text-decoration:none;">
-    <img src="assets/more.png" alt="Mais opções">
+  <p>
+    <a href="https://exemp2le.com"><img src="assets/message.png" alt="My Email"></a>
+    <a href="https://exemple.com"><img src="assets/more.png" alt="More Options"></a>
+  </p>
 </div>
 
 
-
-<br>
 <br>
 <!-- PROFILE AWARDS -->
 <div>
