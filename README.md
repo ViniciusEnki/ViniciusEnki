@@ -17,8 +17,7 @@
   
 <!-- BANNER -->
 <div>
-  <img src= "assets/banner2.png" 
-    style= "object-fit: none; width: 1200px; height: 329px"/>
+  <img src= "assets/banner2.png"/>
 <!-- DIVIDER 
   <img src= "assets/divider.png"
     style= "object-fit: none; width: 1200px; height: 21px"/>-->
