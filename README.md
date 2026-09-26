@@ -17,7 +17,7 @@
   
 <!-- BANNER -->
 <div>
-  <img src= "assets/banner2.png"/>
+  <img src= "aaa.webp"/>
 <!-- DIVIDER 
   <img src= "assets/divider.png"
     style= "object-fit: none; width: 1200px; height: 21px"/>-->
