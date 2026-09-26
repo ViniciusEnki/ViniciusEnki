@@ -17,10 +17,10 @@
   
 <!-- BANNER -->
 <div>
-  <img src= "aaa.webp"/>
-<!-- DIVIDER 
+<img src="a.jpg" width="100%" height="100%" style="object-fit: cover;" />
+<!-- DIVIDER
   <img src= "assets/divider.png"
-    style= "object-fit: none; width: 1200px; height: 21px"/>-->
+  -->
 </div>
 </td> 
 <!-- RIGHT COLUMN: SMALLER BLOCK (STEAM STYLE, FIXED MAX-WIDTH) -->
