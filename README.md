@@ -1,28 +1,51 @@
 <table>
 <tr valign="top">
-<!-- LEFT COLUMN: LARGEST BLOCK (OCCUPIES THE MAXIMUM SPACE) -->
+<!-- LEFT COLUMN -->
 <td>
+  
+<!-- NAME -->
 <div style="min-width: 300px; min-height: auto;">
-  <h1>
-    Vinicius
-  </h1>
-    <p>
-      Description &nbsp;🇧🇷&nbsp;Brazil
-    <br>
-      nndustry. Lorem Ipsum has beetype specimen boot.ndustry. Lorem Ipsum has beetype specimen boot.ndustry. Lorem Ipsum has beetype specimen boot.ndustry. Lorem Ipsum has beetype specimen boot.ndustry. Lorem Ipsum has beetype specimen boot.ndustry. Lorem Ipsum has beetype specimen boot.
-      <br>
+  <h1>Enki</h1>
+    <p> Description &nbsp;🇧🇷&nbsp;Brazil
+      <br> 
+      Description 2<br> 
     </p>
 </div>
 
-  
 <!-- BANNER -->
-<div>
-<img src="a.jpg" width="100%" height="100%" style="object-fit: cover;" />
-<!-- DIVIDER
-  <img src= "assets/divider.png"
-  -->
-</div>
-</td> 
+  <div>
+    <img src="a.jpg" width="100%"style="object-fit: cover;" alt="Profile Banner"/>
+  </div>
+<!-- FAVORITE GUIDE -->
+<br>
+  <div>
+    <span>$$\Large \textsf{Favorite Guide}$$</span>
+    <br><br>
+    <!-- GUIDE BANNER -->
+    <a href="https://steamcommunity.com/" target="_blank" rel="noopener noreferrer">
+    <!-- GUIDE INFO -->
+    <table>
+      <tr valign="middle">
+        <td>
+          <a href="https://steamcommunity.com/" target="_blank" rel="noopener noreferrer">
+            <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1030840/7eee5eee83ee5ba4e30db92f36108e108ade4986.jpg"
+              width="160" height="160" alt="Guide Icon" />
+          </a>
+        </td>
+        <td width="500">    <!-- Arrumar essa macacada dps-->
+          <sub>$\textsf{\color{#969696}{Created by - }}\textsf{desinity}$</sub>
+          <br>
+          <br>
+          <p align="right">★★★★★ 149 ratings</p>
+        </td>
+      </tr>
+    </table>
+  </div>
+</td>
+</td>
+
+
+
 <!-- RIGHT COLUMN: SMALLER BLOCK (STEAM STYLE, FIXED MAX-WIDTH) -->
 <td width="300" style="max-width:300px;">
   <div style="display:flex;">
