@@ -34,9 +34,9 @@
 
 <br>
 <!-- IDK IMAGE -->
-<a href="https://en.wikipedia.org/wiki/Surveillance_capitalism">
-  <img src="githubbadge Freedom.png" style="width:290px; height:70px;" />
-</a>        
+<a href="https://en.wikipedia.org/wiki/Surveillance_capitalism" target="_blank" rel="noopener noreferrer">
+  <img src="githubbadge Freedom.png" width="290" height="70" />
+</a>     
 <!-- PROFILE BUTTONS -->
 <div style="display:flex;">
   <p>
