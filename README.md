@@ -34,7 +34,7 @@
 
 <br>
 <!-- IDK IMAGE -->
-<img src="githubbadge Freedom.png" style="width:290px; height:70px;"/>
+<img src="githubbadge Freedom.png" width="100%" height="100%" style="object-fit: cover;"/>
         
 <!-- PROFILE BUTTONS -->
 <div style="display:flex;">
