@@ -32,7 +32,7 @@
               width="160" height="160" alt="Guide Icon" />
           </a>
         </td>
-        <td width="380px">
+        <td width="350px">
           <sub>Created by - desinity</sub>
           <br>
           <br>
