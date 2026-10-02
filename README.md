@@ -36,7 +36,7 @@
           <sub>Created by - desinity</sub>
           <br>
           <br>
-          <p align="right">★★★★★ 149 ratings</p>
+          <p align="right">★★★★☆ 149 ratings</p>
         </td>
       </tr>
     </table>
@@ -143,7 +143,7 @@
 </div>
 <div style="display:flex;">
     <a href="exemple.com">
-      <img src="assets/dotfiles.png" width="28" alt="dotfiles icon">
+      <img src="https://s3-new.macosicons.com/macosicons/parse/low_res_Arch_Linux_ClearDark_-_macOS_27_PfwJr2gB5K-bd752544fd.png" width="48" alt="Dotfiles icon">
     </a>
     <!--
       <img src="img6.png" width="28">
