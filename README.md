@@ -1,7 +1,7 @@
 <table>
 <tr valign="top">
 <!-- LEFT COLUMN -->
-<td>
+<td width="65%" style="max-width:65%;">
   
 <!-- NAME -->
 <div style="min-width: 300px; min-height: auto;">
@@ -14,7 +14,7 @@
 
 <!-- BANNER -->
   <div>
-    <img src="a.jpg" width="100%"style="object-fit: cover;" alt="Profile Banner"/>
+    <img src="a.jpg" width="100%" alt="Profile Banner"/>
   </div>
 <!-- FAVORITE GUIDE -->
 <br>
@@ -26,14 +26,14 @@
     <!-- GUIDE INFO -->
     <table>
       <tr valign="middle">
-        <td>
+        <td >
           <a href="https://steamcommunity.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1030840/7eee5eee83ee5ba4e30db92f36108e108ade4986.jpg"
+            <img src="https://i.pinimg.com/736x/a0/a5/fc/a0a5fc36fa97480e50d6ac68b3b7ce48.jpg"
               width="160" height="160" alt="Guide Icon" />
           </a>
         </td>
-        <td width="500">    <!-- Arrumar essa macacada dps-->
-          <sub>$\textsf{\color{#969696}{Created by - }}\textsf{desinity}$</sub>
+        <td width="450px">
+          <sub>Created by - desinity</sub>
           <br>
           <br>
           <p align="right">★★★★★ 149 ratings</p>
@@ -41,19 +41,16 @@
       </tr>
     </table>
   </div>
+  </td>
 </td>
-</td>
-
-
 
 <!-- RIGHT COLUMN: SMALLER BLOCK (STEAM STYLE, FIXED MAX-WIDTH) -->
-<td width="300" style="max-width:300px;">
+<td width="35%" style="max-width:35%;">
   <div style="display:flex;">
     <br>
       <span>$\Huge \textsf{Level }$</span>
       <span>$\Huge \textsf{\color{#2a7aef}{⑱}}$</span>
 </div>
-
 
 <br>
 <!-- IDK IMAGE -->
@@ -68,8 +65,8 @@
   </p>
 </div>
 
-
 <br>
+
 <!-- PROFILE AWARDS -->
 <div>
 <div style="display:flex;">
@@ -109,7 +106,6 @@
     </a>
 </div>
 
-
 <br>
 <br>
 <!-- GAMES -->
@@ -132,14 +128,12 @@
   </p>
 </div>
 
-
 <br>
 <!-- INVENTORY -->
 <div style="display:flex;">
   <span>$\Large \textsf{Invetory }$</span>
   <span>$\Huge \textsf{\color{#9b9b9b}{96}}$</span>
 </div>
-
 
 <br>
 <!-- ARTWORK -->
@@ -158,10 +152,7 @@
       -->
 </div>
 
-
 <br>
 </td>
 </tr>
 </table>
-
-
