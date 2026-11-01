@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="410px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #f00d45;}
+.value {fill: #fff;}
+.cc {fill: #8C8C8C;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="410" fill="rgba(40, 40, 40, 0.96)" rx="15"/>
+<text x="15" y="30" fill="#8C8C8C" class="ascii">
+<tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="50">⠀⠀⠀⠀⠀⠀⠀⠀⢹⠿⡟⠓⠶⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="70">⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⠀⠑⠀⠀⠉⠢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="90">⠀⡀⠀⠀⠀⠀⠀⠀⠀⢈⠀⠀⠀⠀⠀⠈⠱⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣠⣤⡴⠂⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="110">⠀⠈⢻⣶⢶⠶⢤⣠⣀⣣⠀⠀⠀⠀⠀⠀⠸⡆⠀⠀⠀⠀⠠⠠⠒⠉⠉⠁⠈⢹⣿⠊⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="130">⠀⠀⠈⢭⡆⠑⠀⠀⠀⠀⠉⠑⢄⠀⠀⠦⡆⠀⢰⡆⢠⠊⠀⠀⠀⠂⠀⠀⠀⢸⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="150">⠀⠀⠀⠀⠩⣤⡀⠀⠀⠀⠀⠡⡀⠈⢢⡀⠘⡇⠸⢻⠀⠀⠀⠈⡠⠂⠀⠀⢀⠜⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="170">⠀⠀⠀⠀⠀⠈⣆⠙⠢⢄⠐⠀⢱⠄⡀⠣⡀⠀⢹⡌⠀⢠⠂⠊⢠⠀⠀⢠⠎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="190">⠀⠀⠀⠀⠀⠀⠀⠑⢄⠀⠙⠿⣦⡑⢿⡌⠹⡄⢽⢗⢰⡈⢀⠈⠀⢀⠠⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="210">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⢦⡄⣙⠦⡈⡢⣿⢸⡷⢣⡞⠋⢈⣠⣔⣁⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="230">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣉⣌⣵⡾⣷⡬⣿⣇⣾⠿⡿⠯⢤⣄⡒⠀⠀⠀⠁⠉⠒⠦⡀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="250">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡔⠛⢩⣽⠟⠋⢰⣽⠑⣍⣉⠳⢾⡿⣶⣒⣀⠀⠀⠐⠀⠀⠀⠈⠱⡄⠀⠀⠀</tspan>
+<tspan x="15" y="270">⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠊⠀⢀⠞⠀⠀⠀⠸⠁⠆⢐⢩⢉⠓⣌⠳⡔⠒⠛⠒⠒⠒⠛⠒⠦⡠⣭⡆⠀⠀</tspan>
+<tspan x="15" y="290">⠀⠀⠀⠀⠀⠀⠀⠀⢀⠃⠀⠀⠁⠀⠀⠄⡪⠏⠀⠘⡄⢢⡀⠘⠮⡁⠀⠱⠄⠀⠀⠀⠀⠀⠀⠈⠙⢿⡄⠀</tspan>
+<tspan x="15" y="310">⠀⠀⠀⠀⠀⠀⠀⠀⡤⡄⠀⠀⢀⡤⠿⠉⠀⠀⠀⠀⠀⠢⡀⠀⠀⠀⠣⠀⠀⢂⠀⠀⠀⠀⠀⠀⠀⠀⠑⠀</tspan>
+<tspan x="15" y="330">⠀⠀⠀⠀⠀⠀⠀⠀⣿⣁⣿⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠄⠀⠀⠠⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="350">⠀⠀⠀⠀⠀⠀⠀⠀⢿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠲⡄⠀⡀⣂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="370">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣶⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="390">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+</text>
+<text x="390" y="30" fill="#8C8C8C">
+<tspan x="395" y="30">- vinicius@enki</tspan> -———————————————————————————————————————————
+<tspan x="395" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Arch Linux · Wayland</tspan>
+<tspan x="395" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Morrigan</tspan>
+<tspan x="395" y="90" class="cc">. </tspan><tspan class="key">WM</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">Hyprland</tspan>
+<tspan x="395" y="110" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">Quickshell</tspan>
+<tspan x="395" y="130" class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">VS Code · Neovim</tspan>
+<tspan x="395" y="150">- Development</tspan> -—————————————————————————————————————————————
+<tspan x="395" y="170" class="cc">. </tspan><tspan class="key">Programming</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">TypeScript, JavaScript, Lua</tspan>
+<tspan x="395" y="190" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">React, Electron, Vite</tspan>
+<tspan x="395" y="210" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Git, pnpm</tspan>
+
+<tspan x="395" y="230">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="395" y="250" class="cc">. </tspan><tspan class="key">Email</tspan> <tspan class="key">Personal</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">viniciusenki@outlook.com</tspan>
+<tspan x="395" y="270" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">rviniciuss</tspan>
+
+<tspan x="395" y="290">- Projects</tspan> -—————————————————————————————————————————————-—-
+<tspan x="395" y="310" class="cc">. </tspan><tspan class="key">Papyrus</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Markdown-first desktop knowledge app</tspan>
+<tspan x="395" y="330" class="cc">. </tspan><tspan class="key">Morrigan-Shell</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">A Shell for Hyprland</tspan>
+<tspan x="410" y="370" class="cc">Unofficial profile Official · profile under construction.</tspan>
+</text>
+</svg>
