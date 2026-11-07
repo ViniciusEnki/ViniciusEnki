@@ -2,18 +2,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="410px" font-size="16px">
 <style>
 @font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
-font-display: swap;
--webkit-size-adjust: 109%;
-size-adjust: 109%;
+    src: local('Consolas'), local('Consolas Bold');
+    font-family: 'ConsolasFallback';
+    font-display: swap;
+    -webkit-size-adjust: 109%;
+    size-adjust: 109%;
 }
-.key {fill: #f00d45;}
-.value {fill: #fff;}
-.cc {fill: #8C8C8C;}
-text, tspan {white-space: pre;}
+.key {
+    fill: #58A6FF;
+}
+.value {
+    fill: #E6EDF3;
+}
+.cc {
+    fill: #8B949E;
+}
+.ascii {
+    fill: #76869A;
+}
+text, tspan {
+    white-space: pre;
+}
 </style>
-<rect width="985px" height="410" fill="rgba(40, 40, 40, 0.96)" rx="15"/>
+<rect width="985px" height="410" fill="#161B22" rx="15"/>
 <text x="15" y="30" fill="#8C8C8C" class="ascii">
 <tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
 <tspan x="15" y="50">⠀⠀⠀⠀⠀⠀⠀⠀⢹⠿⡟⠓⠶⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
